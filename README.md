@@ -1,17 +1,39 @@
-# Portafolio de Junal Chowdhury
+# Junal Chowdhury's Portfolio
 
-¡Hola! Soy Junal Chowdhury, estudiante de Ciencia de la Computación en la Universidad Nacional de Ingeniería. Mi pasión y enfoque académico se centran en el fascinante mundo de la Ciencia de Datos.
+Hi! I'm Junal Chowdhury, a Computer Science student at the National University of Engineering. My passion and academic focus revolve around the fascinating world of Data Science.
 
-## Sobre mí
+## About Me
 
-- 🎓 Actualmente cursando Ciencia de la Computación en la Universidad Nacional de Ingeniería.
-- 💡 Interesado en el campo emergente de la Ciencia de Datos.
-- 🌐 Buscando combinar teoría y práctica para abordar desafíos del mundo real.
+- 🎓 Currently pursuing a degree in Computer Science at the National University of Engineering.
+- 💡 Interested in the emerging field of Data Science.
+- 🌐 Seeking to combine theory and practice to tackle real-world challenges.
 
-## Habilidades y Conocimientos
+## Skills and Knowledge
 
-- 💻 Tecnologías: Python, SQL, Tableau y Power BI.
-- 📊 Especializado en visualización y análisis de datos.
-- 🌱 Continuamente adquiriendo conocimientos en análisis de datos para mantenerme actualizado con las últimas tendencias y herramientas.
+- 💻 Technologies: Python, SQL, Tableau, and Power BI.
+- 📊 Specialized in data visualization and analysis.
+- 🌱 Continuously acquiring knowledge in data analysis to stay updated with the latest trends and tools.
+- 📈 Strong foundation in mathematics and statistics.
+- 🛢️ Database Management: SQL Server, MySQL, PostgreSQL.
+- 📊 Data Analysis Tools: Excel, R.
+- 🔗 Version Control: Git.
 
-¡Explora mi portafolio para ver algunos de los proyectos emocionantes en los que he trabajado!
+<!-- 
+## Projects
+
+Here are some of the projects I've worked on:
+
+1. [Project 1](link-to-project-1) - Brief description.
+2. [Project 2](link-to-project-2) - Brief description.
+3. [Project 3](link-to-project-3) - Brief description.
+
+Feel free to explore more projects in my [GitHub repositories](https://github.com/JunalChowdhuryG).
+-->
+
+## Connect with Me
+
+- 📧 Email: chowdhurygomezjunaljohir@gmail.com
+- 🌐 [Data Science Portfolio](https://www.datascienceportfol.io/junalchowdhuryg)
+- 📊 [Tableau Profile](https://public.tableau.com/app/profile/junal.chowdhury.gomez/vizzes)
+- 💻 [GitHub](https://github.com/JunalChowdhuryG)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/junal-chowdhury-g/)
