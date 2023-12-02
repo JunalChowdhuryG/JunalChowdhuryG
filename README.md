@@ -1,16 +1,17 @@
-### Hi there 👋
+# Portafolio de Junal Chowdhury
 
-<!--
-**JunalChowdhuryG/JunalChowdhuryG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+¡Hola! Soy Junal Chowdhury, estudiante de Ciencia de la Computación en la Universidad Nacional de Ingeniería. Mi pasión y enfoque académico se centran en el fascinante mundo de la Ciencia de Datos.
 
-Here are some ideas to get you started:
+## Sobre mí
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 Actualmente cursando Ciencia de la Computación en la Universidad Nacional de Ingeniería.
+- 💡 Interesado en el campo emergente de la Ciencia de Datos.
+- 🌐 Buscando combinar teoría y práctica para abordar desafíos del mundo real.
+
+## Habilidades y Conocimientos
+
+- 💻 Tecnologías: Python, SQL, Tableau y Power BI.
+- 📊 Especializado en visualización y análisis de datos.
+- 🌱 Continuamente adquiriendo conocimientos en análisis de datos para mantenerme actualizado con las últimas tendencias y herramientas.
+
+¡Explora mi portafolio para ver algunos de los proyectos emocionantes en los que he trabajado!
