@@ -59,9 +59,6 @@ Feel free to explore more projects in my [GitHub repositories](https://github.co
   <a href="https://www.r-project.org/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/r-project/r-project-icon.svg" alt="r" width="40" height="40"/>
   </a>
-  <a href="https://www.tableau.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/tableau/tableau-icon.svg" alt="tableau" width="40" height="40"/>
-  </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
   </a>
