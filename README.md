@@ -1,10 +1,10 @@
 # Junal Chowdhury's Portfolio
 
-Hi! I'm Junal Chowdhury, a Computer Science student at the National University of Engineering. My passion and academic focus revolve around the fascinating world of Data Science.
+Hi! I'm Junal Chowdhury, a Computer Science student at the National University of Engineering in Peru. My passion and academic focus revolve around the fascinating world of Data Science.
 
 ## About Me
 
-- 🎓 Currently pursuing a degree in Computer Science at the National University of Engineering.
+- 🎓 Currently pursuing a degree in Computer Science at the National University of Engineering, Peru.
 - 💡 Interested in the emerging field of Data Science.
 - 🌐 Seeking to combine theory and practice to tackle real-world challenges.
 
