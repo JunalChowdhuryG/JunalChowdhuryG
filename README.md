@@ -28,14 +28,16 @@ Here are some of the projects I've worked on:
 Feel free to explore more projects in my [GitHub repositories](https://github.com/JunalChowdhuryG).
 -->
 
-## Certifications <!-- Uncomment this section when you want to display -->
+<!--
+## Certifications <!-- Uncomment this section when you want to display
 
 - 🏆 **Certification in Data Science:** [Provider Name](certification-link)
 - 🏆 **Certification in Machine Learning:** [Provider Name](certification-link)
+-->
 
 ## Languages <!-- Uncomment this section when you want to display -->
 
-- 🌐 **English:** Proficient
+- 🌐 **English:** Basic Proficiency
 - 🌐 **Spanish:** Native
 
 ## Connect with Me
