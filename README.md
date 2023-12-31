@@ -28,12 +28,9 @@ Here are some of the projects I've worked on:
 Feel free to explore more projects in my [GitHub repositories](https://github.com/JunalChowdhuryG).
 -->
 
-<!--
-## Certifications <!-- Uncomment this section when you want to display
 
-- 🏆 **Certification in Data Science:** [Provider Name](certification-link)
-- 🏆 **Certification in Machine Learning:** [Provider Name](certification-link)
--->
+## Certifications <!-- Uncomment this section when you want to display -->
+- 🏆 *Certificación en Git:* [Backtrack Academy](https://backtrackacademy.com/examen/91/certificate.pdf?key=6378814354f199c4e6fb96069b8a50df)
 
 ## Languages <!-- Uncomment this section when you want to display -->
 
