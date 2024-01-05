@@ -31,7 +31,7 @@ Feel free to explore more projects in my [GitHub repositories](https://github.co
 
 ## Certifications <!-- Uncomment this section when you want to display -->
 - 🏆 *Certificación en Git:* [Backtrack Academy](https://backtrackacademy.com/examen/91/certificate.pdf?key=6378814354f199c4e6fb96069b8a50df)
-
+- 🏆 *Certificación en Data Analysis with Python:* [Cognitive Class](https://courses.cognitiveclass.ai/certificates/295b1cce871749fb9ac295a728a81c07)
 ## Languages <!-- Uncomment this section when you want to display -->
 
 - 🌐 **English:** Basic Proficiency
