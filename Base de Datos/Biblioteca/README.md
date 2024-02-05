@@ -4,7 +4,7 @@ Este proyecto consiste en una base de datos diseñada para una biblioteca, imple
 
 ## Diseño del Diagrama Entidad-Relación
 
-El diseño de la base de datos se encuentra en el archivo [DiagramaBaseDeDatos.jpg](DiagramaBaseDeDatos.jpg). Este diagrama muestra las entidades principales y las relaciones entre ellas en el modelo de la base de datos.
+El diseño de la base de datos se encuentra en el archivo ![DiagramaBaseDeDatos.jpg](DiagramaBaseDeDatos.jpg). Este diagrama muestra las entidades principales y las relaciones entre ellas en el modelo de la base de datos.
 
 ## Archivos SQL
 
