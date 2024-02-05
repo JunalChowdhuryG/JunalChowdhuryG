@@ -16,13 +16,12 @@ El proyecto incluye varios archivos SQL para crear y poblar la base de datos, as
 4. **06_Consultas.sql**: Contiene una serie de consultas SQL que responden a preguntas sobre la base de datos y proporcionan información útil.
 5. **07_Vistas.sql**: Define una serie de vistas que ofrecen diferentes perspectivas sobre los datos de la base de datos.
 
-## Tecnologías y Skills Utilizadas
+# Tecnologías y Skills Utilizadas
 
 En este proyecto se utilizaron las siguientes tecnologías y skills:
 
-<img src="https://www.svgrepo.com/show/499816/database.svg" alt="Base de Datos" width="40">
-<img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="40">
-
+- **Base de Datos** 
+- **SQL Server**
 
 ## Consideraciones
 
