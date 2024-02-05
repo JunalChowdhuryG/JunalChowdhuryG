@@ -12,7 +12,7 @@ Hi! I'm Junal Chowdhury, a Computer Science student at the National University o
 
 - 💻 **Programming Languages:** Python, R
 - 📊 **Data Visualization:** Tableau, Power BI
-- 🛢️ **Database Management:** SQL Server, MySQL, PostgreSQL, Microsoft Azure
+- 🛢️ **Database Management:** SQL Server, MySQL, PostgreSQL
 - 📈 **Mathematics and Statistics**
 - 🔗 **Version Control:** Git
 

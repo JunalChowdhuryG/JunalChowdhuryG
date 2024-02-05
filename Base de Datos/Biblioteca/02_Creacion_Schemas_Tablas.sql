@@ -1,4 +1,4 @@
-USE Biblioteca
+USE BD_Biblioteca
 go
 
 --Esquema Ubicacion
@@ -8,7 +8,7 @@ go
 --Tabla Ubicaciones
 create  table [Ubicacion].[Ubicaciones](
 	ubicacion_id		INT				NOT NULL	IDENTITY(1,1) PRIMARY KEY,
-	nombre_ubicacion	VARCHAR(255)
+	nombre_ubicacion	VARCHAR(255)	UNIQUE,
 )
 go
 
@@ -16,7 +16,7 @@ go
 create  table [Ubicacion].[Estanterias](
 	estanteria_id		INT				NOT NULL	IDENTITY(1,1) PRIMARY KEY,
 	ubicacion_id		INT				NOT NULL,
-	nombre_estanteria	VARCHAR(255)
+	nombre_estanteria	VARCHAR(255)	UNIQUE,
 	FOREIGN KEY (ubicacion_id)	REFERENCES [Ubicacion].[Ubicaciones](ubicacion_id),
 )
 go
@@ -26,22 +26,22 @@ create schema Libro
 go
 
 create table [Libro].[Autores](
-	autor_id			INT			NOT NULL	IDENTITY(1,1) PRIMARY KEY,
-	nombre_autor		VARCHAR(255) 
+	autor_id			INT				NOT NULL	IDENTITY(1,1) PRIMARY KEY,
+	nombre_autor		VARCHAR(255)	UNIQUE,
 )
 go
 
 --Tabla Editoriales
 create table [Libro].[Editoriales](
-	editorial_id		INT		NOT NULL	IDENTITY(1,1) PRIMARY KEY,
-	nombre_editorial	VARCHAR(255)
+	editorial_id		INT				NOT NULL	IDENTITY(1,1) PRIMARY KEY,
+	nombre_editorial	VARCHAR(255)	UNIQUE,
 )
 go
 
 --Tabla Categorias
 create table [Libro].[Categorias](
-	categoria_id		INT		NOT NULL	IDENTITY(1,1) PRIMARY KEY,
-	nombre_categoria	VARCHAR(255)
+	categoria_id		INT				NOT NULL	IDENTITY(1,1) PRIMARY KEY,
+	nombre_categoria	VARCHAR(255)	UNIQUE,
 )
 go
 
@@ -76,13 +76,13 @@ go
 
 --Tabla Ejemplares
 create table [Libro].[Ejemplares](
-	ejemplar_id			INT				NOT NULL	IDENTITY(1,1) PRIMARY KEY,
-	ISBN				INT				NOT NULL,
-	ubicacion_id		INT				NOT NULL,
-	estanteria_id		INT				NOT NULL,
-	estado_id			INT				NOT NULL,
+	ejemplar_id			INT		IDENTITY(1,1) PRIMARY KEY,
+	ISBN				INT,
+	--ubicacion_id		INT,
+	estanteria_id		INT,
+	estado_id			INT,
 	FOREIGN KEY (ISBN)			REFERENCES [Libro].[Libros](ISBN),
-	FOREIGN KEY (ubicacion_id)	REFERENCES [Ubicacion].[Ubicaciones](ubicacion_id),
+	--FOREIGN KEY (ubicacion_id)	REFERENCES [Ubicacion].[Ubicaciones](ubicacion_id),
 	FOREIGN KEY (estanteria_id)	REFERENCES [Ubicacion].[Estanterias](estanteria_id),
 	FOREIGN KEY (estado_id)		REFERENCES [Libro].[Estado](estado_id)
 )
@@ -207,6 +207,7 @@ create table [Reservas].[Estado](
 	estado_id		INT	NOT NULL	IDENTITY(1,1) PRIMARY KEY,
 	nombre_estado	VARCHAR(255),
 )
+go
 
 --Tabla Reservas
 create table [Reservas].[Reservas](
@@ -255,7 +256,7 @@ create table [Feedback].[Valoraciones](
 	valoracion_id 		INT	NOT NULL	IDENTITY(1,1) PRIMARY KEY,
 	cliente_id			INT	NOT NULL,
 	ISBN				INT	NOT NULL,
-	puntuacion  		VARCHAR(255),
+	puntuacion  		VARCHAR(255), 
 	fecha_valoracion  	DATE,
 	FOREIGN KEY (cliente_id)	REFERENCES [Cliente].[Clientes](cliente_id),
 	FOREIGN KEY (ISBN)			REFERENCES [Libro].[Libros](ISBN),
@@ -308,6 +309,7 @@ create table [EventosProgramacion].[Programacion](
 )
 go
 
+
 --Esquema Usuario
 create schema Usuario
 go
@@ -354,6 +356,7 @@ CREATE TABLE [Usuario].[Detalles_Usuario](
     FOREIGN KEY (usuario_id) REFERENCES [Usuario].[Usuarios](usuario_id)
 );
 GO
+
 
 --Esquema BibliotecaVirtual
 create schema BibliotecaVirtual
