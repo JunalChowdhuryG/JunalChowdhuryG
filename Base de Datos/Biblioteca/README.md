@@ -20,8 +20,8 @@ El proyecto incluye varios archivos SQL para crear y poblar la base de datos, as
 
 En este proyecto se utilizaron las siguientes tecnologías y skills:
 
-- **Base de Datos:** <img src="https://www.svgrepo.com/show/499816/database.svg" alt="Base de Datos" width="200">
-- **SQL Server:** <img src="./imagenes/sql_server.jpg" alt="SQL Server" width="200">
+<img src="https://www.svgrepo.com/show/499816/database.svg" alt="Base de Datos" width="80">
+<img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="80">
 
 
 ## Consideraciones
