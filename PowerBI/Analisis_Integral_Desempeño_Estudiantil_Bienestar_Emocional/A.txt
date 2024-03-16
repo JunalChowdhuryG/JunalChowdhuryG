@@ -1,0 +1,15 @@
+Gráfico de dispersión (Scatter Plot) de Promedio vs. Calificación del Examen Final: Este gráfico te permitirá visualizar la relación entre el promedio y la calificación final del examen. Puedes usar diferentes colores o formas para representar el género o el nivel educativo.
+
+Gráfico de barras (Bar Chart) de Nivel Educativo vs. Promedio: Te ayudará a comparar los promedios de diferentes niveles educativos. Puedes agregar líneas de tendencia para ver si hay alguna correlación entre el nivel educativo y el rendimiento académico.
+
+Gráfico de líneas (Line Chart) de Horas de Estudio Semanales a lo largo del tiempo: Si tu dataset incluye fechas, este gráfico te permitirá visualizar cómo cambian las horas de estudio semanales con el tiempo.
+
+Gráfico de barras apiladas (Stacked Bar Chart) de Área de Estudio vs. Promedio: Mostrará la distribución de promedios por área de estudio. Esto puede ayudarte a identificar áreas de estudio con mejores o peores rendimientos.
+
+Gráfico de barras (Bar Chart) de Participación en Actividades Extracurriculares por Nivel Socioeconómico: Puedes utilizar este gráfico para ver si hay alguna relación entre el nivel socioeconómico y la participación en actividades extracurriculares.
+
+Gráfico de líneas (Line Chart) de Calificación de Bienestar Emocional a lo largo del tiempo: Si tienes datos de múltiples fechas, este gráfico mostrará cómo varía la calificación de bienestar emocional con el tiempo.
+
+Gráfico de dispersión (Scatter Plot) de Edad vs. Calificación del Examen Final: Te permitirá explorar si la edad tiene algún impacto en el rendimiento académico.
+
+Gráfico de barras (Bar Chart) de Nivel Socioeconómico vs. Calificación de Satisfacción del Curso: Este gráfico puede revelar si hay alguna diferencia en la satisfacción del curso entre diferentes niveles socioeconómicos.

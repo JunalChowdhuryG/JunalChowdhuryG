@@ -1,48 +1,46 @@
-# Junal Chowdhury's Portfolio
+# Portafolio de Junal Chowdhury
 
-Hi! I'm Junal Chowdhury, a Computer Science student at the National University of Engineering in Peru. My passion and academic focus revolve around the fascinating world of Data Science.
+¡Hola! Soy Junal Chowdhury, un estudiante de Ciencias de la Computación en la Universidad Nacional de Ingeniería en Perú. Mi pasión y enfoque académico giran en torno al fascinante mundo de la Ciencia de Datos.
 
-## About Me
+## Sobre Mí
 
-- 🎓 Currently pursuing a degree in Computer Science at the National University of Engineering, Peru.
-- 💡 Interested in the emerging field of Data Science.
-- 🌐 Seeking to combine theory and practice to tackle real-world challenges.
+- 🎓 Actualmente cursando una carrera en Ciencias de la Computación en la Universidad Nacional de Ingeniería, Perú.
+- 💡 Interesado en el campo emergente de la Ciencia de Datos.
+- 🌐 Busco combinar teoría y práctica para abordar desafíos del mundo real.
 
-## Skills and Technologies 🚀
+## Habilidades y Tecnologías 🚀
 
-- 💻 **Programming Languages:** Python, R
-- 📊 **Data Visualization:** Tableau, Power BI
-- 🛢️ **Database Management:** SQL Server, MySQL, PostgreSQL
-- 📈 **Mathematics and Statistics**
-- 🔗 **Version Control:** Git
+- 💻 **Lenguajes de Programación:** Python, R
+- 📊 **Visualización de Datos:** Tableau, Power BI
+- 🛢️ **Gestión de Bases de Datos:** SQL Server, MySQL, MariaDB, PostgreSQL
+- 📈 **Matemáticas y Estadísticas**
+- 🔗 **Control de Versiones:** Git
 
-<!-- 
-## Projects
+## Certificaciones 
 
-Here are some of the projects I've worked on:
-
-1. [Project 1](link-to-project-1) - Brief description.
-2. [Project 2](link-to-project-2) - Brief description.
-3. [Project 3](link-to-project-3) - Brief description.
-
-Feel free to explore more projects in my [GitHub repositories](https://github.com/JunalChowdhuryG).
--->
-
-
-## Certifications <!-- Uncomment this section when you want to display -->
 - 🏆 *Certificación en Git:* [Backtrack Academy](https://backtrackacademy.com/examen/91/certificate.pdf?key=6378814354f199c4e6fb96069b8a50df)
-- 🏆 *Certificación en Data Analysis with Python:* [Cognitive Class](https://courses.cognitiveclass.ai/certificates/295b1cce871749fb9ac295a728a81c07)
-- 🏆 *Certificación en SQL and Relational Databases:* [Cognitive Class](https://courses.cognitiveclass.ai/certificates/6ee11379745e4a6289161c0fc12d7155)
-## Languages <!-- Uncomment this section when you want to display -->
+- 🏆 *Certificación en Análisis de Datos con Python:* [Cognitive Class](https://courses.cognitiveclass.ai/certificates/295b1cce871749fb9ac295a728a81c07)
+- 🏆 *Certificación en SQL y Bases de Datos Relacionales:* [Cognitive Class](https://courses.cognitiveclass.ai/certificates/6ee11379745e4a6289161c0fc12d7155)
 
-- 🌐 **English:** Basic Proficiency
-- 🌐 **Spanish:** Native
+## Idiomas
 
-## Connect with Me
+- 🌐 **Inglés:** Proficiencia Básica
+- 🌐 **Español:** Nativo
 
-- 📧 Email: chowdhurygomezjunaljohir@gmail.com
-- 🌐 [Data Science Portfolio](https://www.datascienceportfol.io/junalchowdhuryg)
-- 📊 [Tableau Profile](https://public.tableau.com/app/profile/junal.chowdhury.gomez/vizzes)
+## Proyectos
+
+| Nombre del Proyecto | Descripción          | Tecnologías Utilizadas |
+| ------------------- | --------------------- | ---------------------- |
+| Base de datos Biblioteca          | Proporciona una estructura básica para administrar libros, usuarios, préstamos, eventos y más. | SQL Server|
+| Base de datos Restaurante | Proporciona una estructura básica para administrar pedidos, reservaciones, cuentas y más. | MySQL |
+| Analisis Datos Laptops | Este es un proyecto básico de análisis de datos de laptops utilizando SQL. | MariaDB |
+  
+## Conéctate Conmigo
+
+- 📧 Correo Electrónico: chowdhurygomezjunaljohir@gmail.com
+- 🌐 [Portafolio de Ciencia de Datos](https://www.datascienceportfol.io/junalchowdhuryg)
+- 📊 [Perfil de Tableau](https://public.tableau.com/app/profile/junal.chowdhury.gomez/vizzes)
 - 💻 [GitHub](https://github.com/JunalChowdhuryG)
 - 🔗 [LinkedIn](https://www.linkedin.com/in/junal-chowdhury-g/)
+
 
