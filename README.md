@@ -3,7 +3,12 @@
 ![GitHub followers](https://img.shields.io/github/followers/JunalChowdhuryG?style=social) ![GitHub User's stars](https://img.shields.io/github/stars/JunalChowdhuryG?style=social) ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=JunalChowdhuryG.repoName) <img src="https://komarev.com/ghpvc/?username=JunalChowdhuryG" alt="JunalChowdhuryG" />
 
 Welcome to my GitHub portfolio! I'm a passionate Computer Science student at **Universidad Nacional de Ingeniería, Peru**, with expertise in **Java**, **Spring Boot**, **SQL**, **Python**, and cloud technologies. I enjoy building robust applications, and embracing new challenges to grow as a developer.
-
+## Connect with Me
+<a href="https://www.linkedin.com/in/junal-chowdhury-g/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:chowdhurygomezjunaljohir@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white" alt="Gmail" /></a>
+  <a href="https://github.com/JunalChowdhuryG"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://app.aluracursos.com/user/chowdhurygomezjunaljohir"><img src="https://img.shields.io/badge/Alura%20Latam-639bcb?style=flat&logo=alura&logoColor=white" alt="Alura" /></a>
+  <a href="https://learn.microsoft.com/es-es/users/junalchowdhuryg/"><img src="https://img.shields.io/badge/Microsoft-1e2c4d?style=flat&logo=microsoft&logoColor=white" alt="Microsoft" /></a>
 ---
 
 ## About Me
