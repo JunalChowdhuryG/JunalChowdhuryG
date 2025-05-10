@@ -7,7 +7,7 @@ Welcome to my GitHub portfolio! I'm a passionate Computer Science student at **U
 <a href="https://www.linkedin.com/in/junal-chowdhury-g/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:chowdhurygomezjunaljohir@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white" alt="Gmail" /></a>
   <a href="https://github.com/JunalChowdhuryG"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub" /></a>
-  <a href="https://app.aluracursos.com/user/chowdhurygomezjunaljohir"><img src="https://img.shields.io/badge/Alura%20Latam-639bcb?style=flat&logo=alura&logoColor=white" alt="Alura" /></a>
+  <a href="https://app.aluracursos.com/user/chowdhurygomezjunaljohir"><img src="https://custom-icon-badges.demolab.com/badge/Alura-001332?logo=alura-white&logoColor=fff" alt="Alura" /></a>
   <a href="https://learn.microsoft.com/es-es/users/junalchowdhuryg/"><img src="https://img.shields.io/badge/Microsoft-1e2c4d?style=flat&logo=microsoft&logoColor=white" alt="Microsoft" /></a>
 ---
 
@@ -27,7 +27,7 @@ Welcome to my GitHub portfolio! I'm a passionate Computer Science student at **U
 ## **Skills**
 
 ### **Programming Languages**
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
@@ -93,6 +93,6 @@ Let's collaborate or connect!
   <a href="https://www.linkedin.com/in/junal-chowdhury-g/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:chowdhurygomezjunaljohir@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white" alt="Gmail" /></a>
   <a href="https://github.com/JunalChowdhuryG"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub" /></a>
-  <a href="https://app.aluracursos.com/user/chowdhurygomezjunaljohir"><img src="https://img.shields.io/badge/Alura%20Latam-639bcb?style=flat&logo=alura&logoColor=white" alt="Alura" /></a>
+  <a href="https://app.aluracursos.com/user/chowdhurygomezjunaljohir"><img src="https://custom-icon-badges.demolab.com/badge/Alura-001332?logo=alura-white&logoColor=fff" alt="Alura" /></a>
   <a href="https://learn.microsoft.com/es-es/users/junalchowdhuryg/"><img src="https://img.shields.io/badge/Microsoft-1e2c4d?style=flat&logo=microsoft&logoColor=white" alt="Microsoft" /></a>
 </div>
