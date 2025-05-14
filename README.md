@@ -62,11 +62,9 @@ Welcome to my GitHub portfolio! I'm a passionate Computer Science student at **U
 
 | ![Junal Chowdhury's GitHub Stats](https://github-readme-stats.vercel.app/api?username=JunalChowdhuryG&show_icons=true&theme=tokyonight) | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=JunalChowdhuryG&theme=tokyonight) |
 | --- | --- |
-| ![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=JunalChowdhuryG&layout=compact&langs_count=8&theme=tokyonight) | ![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=JunalChowdhuryG&theme=tokyonight&title=Commits,PullRequest,Repositories,Experience) |
+| ![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=JunalChowdhuryG&layout=compact&langs_count=8&theme=tokyonight) | ![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=JunalChowdhuryG&theme=tokyonight&title=Commits,PullRequest,Repositories,Experience&row=2&column=2) |
 
 <br>
-
-![](https://github-profile-trophy.vercel.app/?username=JunalChowdhuryG&theme=chalk&title=Commits,PullRequest,Repositories,Experience)
 ---
 
 ## **Education & Certifications**
