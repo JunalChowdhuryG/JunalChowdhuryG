@@ -2,7 +2,7 @@
 
 ![GitHub followers](https://img.shields.io/github/followers/JunalChowdhuryG?style=social) ![GitHub User's stars](https://img.shields.io/github/stars/JunalChowdhuryG?style=social) ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=JunalChowdhuryG.repoName) <img src="https://komarev.com/ghpvc/?username=JunalChowdhuryG" alt="JunalChowdhuryG" />
 
-Welcome to my GitHub portfolio! I'm a passionate Computer Science student at **Universidad Nacional de Ingeniería, Peru**, with expertise in **Java**, **Spring Boot**, **SQL**, **Python**, and cloud technologies. I enjoy building robust applications, and embracing new challenges to grow as a developer.
+Welcome to my GitHub portfolio! I'm a passionate Computer Science student at **Universidad Nacional de Ingeniería, Peru**, with expertise in **Java**, **Spring Boot**, **SQL**,  and cloud technologies. I enjoy building robust applications, and embracing new challenges to grow as a developer.
 ## Connect with Me
 <a href="https://www.linkedin.com/in/junal-chowdhury-g/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:chowdhurygomezjunaljohir@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white" alt="Gmail" /></a>
@@ -28,14 +28,14 @@ Welcome to my GitHub portfolio! I'm a passionate Computer Science student at **U
 
 ### **Programming Languages**
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+<!-- ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) -->
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
 ### **Frameworks & Tools**
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
+<!--![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white) -->
 ![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat&logo=apache-maven&logoColor=white)
 ![Gradle](https://img.shields.io/badge/Gradle-02303A?style=flat&logo=gradle&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
