@@ -104,12 +104,11 @@ dependencias circulares, datos huerfanos, incompatibilidades de tipos y triggers
 
 ## Educacion y certificaciones
 
-**Universidad Nacional de Ingenieria, Lima Peru**
-Ciencias de la Computacion (en curso)
+- **Universidad Nacional de Ingenieria, Lima Peru**
+  -  Ciencias de la Computacion (en curso)
 
-**Oracle Next Education (ONE) G7 — Alura + Oracle**
-Java · Spring Boot · SQL · Oracle Cloud Infrastructure
-[Ver certificado](https://app.aluracursos.com/program/certificate/9824475c-66b1-40d3-bddd-3ca67990e750)
+- **Oracle Next Education (ONE) G7 — Alura + Oracle**
+  -  Java · Spring Boot · SQL · Oracle Cloud Infrastructure [Ver certificado](https://app.aluracursos.com/program/certificate/9824475c-66b1-40d3-bddd-3ca67990e750)
 
 ---
 
