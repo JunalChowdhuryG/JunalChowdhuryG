@@ -117,4 +117,4 @@ Java · Spring Boot · SQL · Oracle Cloud Infrastructure
 
 | ![Stats](https://github-readme-stats.vercel.app/api?username=JunalChowdhuryG&show_icons=true&theme=tokyonight&hide_border=true) | ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=JunalChowdhuryG&theme=tokyonight&hide_border=true) |
 | --- | --- |
-| ![Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=JunalChowdhuryG&layout=compact&langs_count=8&theme=tokyonight&hide_border=true) | ![Trophy](https://github-profile-trophy.vercel.app/?username=JunalChowdhuryG&theme=tokyonight&row=2&column=4&no-frame=true) |
+| ![Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=JunalChowdhuryG&layout=compact&langs_count=8&theme=tokyonight&hide_border=true) |  |
