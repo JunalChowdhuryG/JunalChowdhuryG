@@ -37,7 +37,7 @@ una arquitectura de dos barreras: Bloom Filter probabilistico + Double-Check ato
 
 **Stack:** Java 21 · Spring Boot 3 · Redis 7 · Kafka · RabbitMQ · Docker · Prometheus · Grafana
 
-[![Repositorio](https://img.shields.io/badge/Ver%20repositorio-181717?style=flat&logo=github&logoColor=white)](https://github.com/JunalChowdhuryG/chronosstream)
+[![Repositorio](https://img.shields.io/badge/Ver%20repositorio-181717?style=flat&logo=github&logoColor=white)](https://github.com/JunalChowdhuryG/Chronos-Stream)
 
 ---
 
